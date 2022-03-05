@@ -163,7 +163,7 @@ class _CalculatorState extends State<Calculator> {
                           children: [
                             buildButton(size, '.'),
                             buildButton(size, '0'),
-                            buildButton(size, '00'),
+                            buildButton(size, '100'),
                           ],
                         ),
                       ],
